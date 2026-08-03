@@ -1,3 +1,12 @@
+## Related Documents
+
+This standard should be used in conjunction with:
+
+- HCOS-ERW-001 — Evidence Review Workflow
+- HCOS-CIT-001 — Citation and Evidence Integration Standard
+- HCOS-EBS-001 — Evidence Boundary Standard
+- HCOS-STS-001 — Source Transparency Standard
+
 # HCOS™ Narrative Evidence Standard
 
 ## Evidence-Informed Interpretation for Human-Centered Narrative Work
